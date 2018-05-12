@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5520
     wikipedia: http://en.wikipedia.org/wiki/Ferdinand_Brock_Tupper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14428#The-Life-and-Correspondence-of-Sir-Isaac-Brock-K.B.--13-Interspersed-with-notices-of-the-cele_
 gutenberg_issued: '2004-12-23'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,38 @@
+_repo: The-Life-and-Correspondence-of-Sir-Isaac-Brock-K.B.--13-Interspersed-with-notices-of-the-cele__14428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brock, Isaac, Sir
+    birthdate: 1769
+    deathdate: 1812
+    gutenberg_agent_id: '37618'
+    url: http://www.gutenberg.org/2009/agents/37618
+  editor:
+    agent_name: Tupper, Ferdinand Brock
+    birthdate: 1795
+    deathdate: 1874
+    gutenberg_agent_id: '5520'
+    url: http://www.gutenberg.org/2009/agents/5520
+    wikipedia: http://en.wikipedia.org/wiki/Ferdinand_Brock_Tupper
+description: ''
+gutenberg_issued: '2004-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Canada -- Biography'
+- !lcc 'E300'
+- !lcsh 'Canada -- History -- 1763-1867'
+- !lcsh 'Brock, Isaac, Sir, 1769-1812'
+title: "The Life and Correspondence of Sir Isaac Brock, K.B.\r\nInterspersed with\
+  \ notices of the celebrated Indian chief, Tecumseh, and comprising brief memoirs\
+  \ of Daniel De Lisle Brock, Esq., Lieutenant E.W. Tupper, R.N., and Colonel W. De\
+  \ Vic Tupper"
+url: http://www.gutenberg.org/ebooks/14428
